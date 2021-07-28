@@ -1,0 +1,18 @@
+.Honda-bg-scondary{
+    background-color:  #264653 ;
+    ;
+}
+.Honda-primary{
+    background-color:  #E76F51;
+    ;
+}
+.Honda-dark{
+    
+    filter: grayscale(1);
+}
+.Honda-outline{
+    border-color:#E76F51 ;
+}
+.text-Honda{
+    color: #E76F51;
+}
